@@ -1,0 +1,22 @@
+{
+  "name": "vladlen_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usulla/js-vladilen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usulla/js-vladilen/issues"
+  },
+  "homepage": "https://github.com/usulla/js-vladilen#readme",
+  "dependencies": {
+    "jest": "^26.0.0"
+  }
+}
